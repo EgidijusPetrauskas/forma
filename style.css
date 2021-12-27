@@ -59,7 +59,7 @@ main a {
     content: "";
     width: 0px;
     height: 5px;
-    background: red;
+    background: crimson;
     transition: all 0.3s ease-in 0.2s;
 
 }
